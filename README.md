@@ -61,4 +61,11 @@ A: Use reputable VPN services and updated antivirus software.
 For the most stable 123Movies experience, visit our verified partner:  
 👉 [https://123moviespros.com](https://123moviespros.com) 👈
 
+## 🔗 Follow Us for Updates
+Stay connected for the latest streaming news and mirror updates:
+
+[![Twitter Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/123moviespros)
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)](https://www.pinterest.com/123moviespros)
+[![GitHub Stars](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/123Movies-Alternatives)
+
 **Disclaimer**: This repository is not affiliated with original 123Movies. We do not host any content - only provide information about streaming platforms.
